@@ -22,7 +22,7 @@ Having `python` as my primary language.
 &nbsp;
 [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gmail.gif" height=70px width=70px style="background-color:white;"/>](mailto:ddhruvarora2@gmail.com)
 &nbsp;
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/youtube.gif" height=70px width=70px style="background-color:white;"/>](https://www.youtube.com/channel/UCfNEoEEy0nKv9P0UBGDcLFg)
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/youtube.gif" height=70px width=70px style="background-color:white;"/>](c)
 &nbsp;
 [<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/twittergif.gif" height=70px width=70px style="background-color:white;"/>](https://twitter.com/DdhruvArora)
 &nbsp;
