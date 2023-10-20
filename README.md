@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nabla&duration=3000&pause=600&random=false&width=525&height=75&lines=Hi+Everyone;I'm+Raj+Singh+Chauhan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Nabla&duration=3000&pause=600&random=false&width=525&height=75&lines=Hi+Everyone;I'm+Raj+Singh+Chauhan" align="center" alt="Typing SVG" />
   </a>
 </h1>
 <h3 align="center">A curious tech enthusiast, having python as my main language.</h3>
