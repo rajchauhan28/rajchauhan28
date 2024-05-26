@@ -1,15 +1,13 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nabla&duration=3000&pause=600&random=false&width=525&height=75&lines=Hi+Everyone;I'm+Raj+Singh+Chauhan" align="center" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=F7A400&center=true&random=false&width=435&lines=Hi%2C+I+am+Raj+singh+chauhan" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">A curious tech enthusiast, having python as my main language.</h3>
+<h3 align="center" font="Salsa">A curious tech enthusiast, having python as my main language.</h3>
 
-- 🌱 I’m currently learning **Pyhton, C, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **AI & ML specifically GEN AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajchauhan28](https://github.com/rajchauhan28)
 
-- 💬 Ask me about **Python, C, AI&ML**
+- 💬 Ask me about **Python, C/C++, GEN AI, Linux (Arch, Ubuntu, Garuda), IOT (Raspberrypi, ESP, Arduino)**
 
 - 📫 How to reach me **rajsinghchauhan352@gmail.com**
 
