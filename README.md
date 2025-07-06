@@ -1,29 +1,28 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=F7A400&center=true&random=false&width=435&lines=Hi%2C+I+am+Raj+singh+chauhan" alt="Typing SVG" /></a>
-</h1>
-<h3 align="center" font="Salsa">A curious tech enthusiast, having python as my main language.</h3>
+<h1 align="center">Hi there, I'm Raj singh chauhan 👋</h1>
 
-- 🌱 I’m currently learning **AI & ML specifically GEN AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rajchauhan28](https://github.com/rajchauhan28)
-
-- 💬 Ask me about **Python, C/C++, GEN AI, Linux (Arch, Ubuntu, Garuda), IOT (Raspberrypi, ESP, Arduino)**
-
-- 📫 How to reach me **rajsinghchauhan352@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> </p>
-
-<h2>Contact Me</h2> <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=40px width=40px/>
-
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/li.gif" height=70px width=70px>](https://www.linkedin.com/in/rajchauhan28/)
-&nbsp;
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ig.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/reign_here/)
-&nbsp;
-&nbsp;
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gmail.gif" height=70px width=70px style="background-color:white;"/>](mailto:rajsinghchauhan352@gmail.com)
-&nbsp;
-<hr>
+## About Me
 <p align="center">
-Developed with ❤️ in India 🇮🇳 
+A passionate developer with a strong foundation in Linux, Python, and AI/ML with a bit a Rus. Working on various interesting projects that are actually useful in real world mostly for me but yeah for others too.
 </p>
+
+## My Tech Stack
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"> 
+<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
+<img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+</p>
+
+## GitHub Stats
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=rajchauhan28&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=rajchauhan28&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+## Connect with me
+
+<p align="center">🔗 LinkedIn: <a href="https://linkedin.com/in/rajchauhan28" target="_blank">Raj singh chauhan</a>   Email: rajsinghchauhan352@gmail.com</p>
